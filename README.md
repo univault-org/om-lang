@@ -18,6 +18,32 @@
 8. [Future Directions](#future-directions)
 9. [Community and Contributions](#call-to-action)
 
+## Documentation Quick Links
+
+### Core Language
+- [Language Overview](docs/specs/core/language-overview.md) - Start here for language basics
+- [Wave Computing Model](docs/specs/core/wave-computing.md) - Understanding wave-native programming
+
+### Getting Started
+- [Basic Patterns](docs/specs/examples/basic-patterns.md) - Essential coding patterns
+- [Advanced Patterns](docs/specs/examples/advanced-patterns.md) - Advanced usage examples
+
+### Specifications
+- [Type System](docs/specs/rfcs/0002-type-system.md) - Type system specification
+- [Wave Syntax](docs/specs/rfcs/0001-wave-syntax.md) - Syntax specification
+- [Compiler Pipeline](docs/specs/rfcs/0003-compiler-pipeline.md) - Compiler architecture
+
+### Development
+- [Contributing Guide](CONTRIBUTING.md) - How to contribute
+- [Security Policy](SECURITY.md) - Security guidelines
+- [Testing Guide](docs/specs/testing/README.md) - Testing specifications
+- [Integration Guide](docs/specs/integration/README.md) - Integration guidelines
+- [Benchmarks](docs/specs/benchmarks/README.md) - Performance benchmarks
+
+### RFCs
+- [RFC Process](docs/specs/rfcs/README.md) - RFC submission guidelines
+- [RFC Template](docs/specs/rfcs/template.md) - Template for new RFCs
+
 ## Introduction
 
 In the era of quantum computing and bio-informatics, we face a fundamental challenge: our programming languages still operate on discrete, binary principles while nature computes using waves, fields, and continuous states. Om addresses this gap by being the first programming language designed to speak nature's computational language natively.
