@@ -756,7 +756,7 @@ Om extends these concepts into wave-native territory:
 
 We're excited to build Om together with the community. Join us in shaping the future of natural computation:
 
-- Discord: [discord.gg/om-lang](https://discord.gg/om-lang)
+- Discord: [discord.gg/fUPMPT8hVj](https://discord.gg/fUPMPT8hVj)
 - GitHub: [github.com/univault-org/om-lang](https://github.com/univault-org/om-lang)
 - Discussions: [github.com/univault-org/om-lang/design/discussions](https://github.com/univault-org/om-lang/design/discussions)
 
@@ -980,5 +980,8 @@ To get started:
 2. Join our Discord community
 3. Check open issues on GitHub
 4. Share your use cases and ideas
+
+
+Discord: [Join Om Lang Community](https://discord.gg/fUPMPT8hVj)
 
 > **Note:** As Om is in the proposal stage, we especially welcome feedback on the core language design and implementation strategies.
