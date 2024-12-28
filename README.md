@@ -36,7 +36,7 @@ The name "Om" carries deep significance:
 <div className="flex justify-center items-center gap-8 my-8">
   <div className="text-center">
     <img 
-      src="/images/om-icon.svg" 
+      src="assets/images/om-icon.svg" 
       alt="Om Logo Primary Design" 
       width="120" 
       height="120" 
@@ -46,7 +46,7 @@ The name "Om" carries deep significance:
   </div>
   <div className="text-center">
     <img 
-      src="/images/om-logo.svg" 
+      src="assets/images/om-logo.svg" 
       alt="Om Logo Alternative" 
       width="120" 
       height="120" 
